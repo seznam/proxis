@@ -1,0 +1,94 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            26:30:62:95:b1:ed:11:3b:24:49:19:33:33:85:ac:45
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=proxis ca
+        Validity
+            Not Before: Mar 27 10:49:13 2019 GMT
+            Not After : Mar 25 10:49:13 2024 GMT
+        Subject: CN=client
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2560 bit)
+                Modulus:
+                    00:df:88:72:7b:59:2b:89:2c:af:17:e0:aa:b7:14:
+                    04:08:cc:65:e5:d4:82:29:ae:32:ee:ee:1d:62:41:
+                    d0:af:19:2c:7c:64:80:ef:c8:f8:22:b2:20:e9:4e:
+                    66:95:c8:50:1c:b2:6f:7d:22:16:5a:cb:a2:a1:71:
+                    ff:69:78:00:f5:50:a0:04:d7:47:13:91:0d:90:3b:
+                    00:ce:b1:ba:b2:f0:c2:1b:30:b9:de:13:30:82:90:
+                    fb:1a:ea:0c:1b:42:17:06:87:64:42:63:a9:73:94:
+                    a6:4d:5d:f3:93:e8:6a:45:41:8c:fb:75:0c:02:8d:
+                    d9:da:b6:a5:31:aa:e7:cf:f1:3a:b8:1e:9e:d1:28:
+                    b1:16:5a:17:07:de:84:e0:1e:d4:fb:f9:7a:ca:38:
+                    31:98:9f:b4:d8:74:8a:46:e5:f4:ff:e4:d4:b8:f1:
+                    74:69:8b:bc:16:de:a5:f0:3d:ab:d1:27:2d:80:de:
+                    e2:07:df:6e:0a:ce:c4:54:95:e7:80:aa:31:15:7b:
+                    c6:20:84:d0:f8:41:d4:25:94:9f:30:a0:f5:77:89:
+                    d3:4b:47:17:d1:d3:0b:1f:dc:d0:2f:11:e3:76:d5:
+                    5f:a2:0c:39:be:6c:4f:3d:93:a3:74:d7:2e:33:ea:
+                    d4:bd:6d:c1:15:fd:89:be:b2:5e:b2:50:90:66:52:
+                    5a:fd:ec:83:08:5d:04:77:5b:d1:72:b9:bd:24:dd:
+                    46:79:31:1c:4c:64:3d:ed:95:c5:5f:0c:c9:4d:bd:
+                    06:a6:cb:e1:d0:29:5d:48:d3:36:fa:ab:e6:da:41:
+                    db:f3:a4:4f:4c:4c:8a:8c:fd:96:73:b6:25:8f:13:
+                    74:e4:25:29:f2:59
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                36:29:86:11:81:55:2A:65:81:4F:D2:64:07:D2:23:27:35:69:0F:1A
+            X509v3 Authority Key Identifier: 
+                keyid:90:A9:BB:9E:2A:64:FB:EA:1C:1C:D0:84:83:B8:9C:C8:4D:99:26:5F
+                DirName:/CN=proxis ca
+                serial:AC:8B:23:77:2A:3C:B3:6E
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+         9b:69:a3:bd:48:86:a5:e1:55:1d:cf:8a:e7:67:3e:6c:93:b3:
+         ab:00:28:2e:c5:a9:15:06:85:8a:90:a1:b2:05:cb:4e:6c:ff:
+         c8:b6:9f:24:61:2d:96:75:eb:01:52:c7:6d:fa:29:20:b1:f6:
+         61:f7:c9:82:79:45:a6:ec:3e:30:40:c6:02:3b:e3:ce:cb:21:
+         01:bd:b5:7c:7f:a6:cd:df:b0:fb:ba:09:d0:ab:33:fa:c7:f9:
+         f6:91:a5:fb:4f:91:7d:c3:e1:5c:ba:f5:3f:18:3c:6b:15:71:
+         53:c1:63:12:9b:5a:72:43:bf:0f:18:6e:e5:b9:59:89:90:8c:
+         1e:8e:03:6a:84:80:65:14:9c:ee:4b:0f:38:1f:87:74:41:d8:
+         eb:cd:76:3e:db:00:cd:f2:8f:d3:25:d8:2e:5e:13:98:c3:95:
+         d8:34:0c:93:33:6c:bb:70:67:b6:9b:0d:b1:fa:c2:f6:c4:66:
+         a2:bb:11:e0:95:c6:1c:69:29:44:6f:ad:e7:a1:e2:ae:41:da:
+         2b:ca:5b:1e:fe:8d:43:e5:d0:5c:dd:0d:e5:ed:91:c8:06:ee:
+         3d:30:f5:48:92:aa:9c:2d:9f:48:d1:2c:cf:48:8a:da:04:38:
+         97:c8:54:03:8d:0d:14:57:e8:ae:37:f7:f1:0a:fd:7f:2b:b1:
+         d7:95:fd:d6:25:0e:72:76:6b:76:aa:06:dd:82:e8:2d:6c:8d:
+         22:23:fb:10:40:af:84:38:a0:31:eb:f9:94:73:19:eb:31:47:
+         28:19:e4:0a:3a:f0:a5:ff:c8:97:9d:1d:17:ee:8f:2e:6e:b0:
+         50:bd:0c:64:aa:02:30:4a:e6:b2:da:47:eb:c6
+-----BEGIN CERTIFICATE-----
+MIIDxTCCAm2gAwIBAgIQJjBilbHtETskSRkzM4WsRTANBgkqhkiG9w0BAQsFADAU
+MRIwEAYDVQQDDAlwcm94aXMgY2EwHhcNMTkwMzI3MTA0OTEzWhcNMjQwMzI1MTA0
+OTEzWjARMQ8wDQYDVQQDDAZjbGllbnQwggFiMA0GCSqGSIb3DQEBAQUAA4IBTwAw
+ggFKAoIBQQDfiHJ7WSuJLK8X4Kq3FAQIzGXl1IIprjLu7h1iQdCvGSx8ZIDvyPgi
+siDpTmaVyFAcsm99IhZay6Khcf9peAD1UKAE10cTkQ2QOwDOsbqy8MIbMLneEzCC
+kPsa6gwbQhcGh2RCY6lzlKZNXfOT6GpFQYz7dQwCjdnatqUxqufP8Tq4Hp7RKLEW
+WhcH3oTgHtT7+XrKODGYn7TYdIpG5fT/5NS48XRpi7wW3qXwPavRJy2A3uIH324K
+zsRUleeAqjEVe8YghND4QdQllJ8woPV3idNLRxfR0wsf3NAvEeN21V+iDDm+bE89
+k6N01y4z6tS9bcEV/Ym+sl6yUJBmUlr97IMIXQR3W9Fyub0k3UZ5MRxMZD3tlcVf
+DMlNvQamy+HQKV1I0zb6q+baQdvzpE9MTIqM/ZZztiWPE3TkJSnyWQIDAQABo4GV
+MIGSMAkGA1UdEwQCMAAwHQYDVR0OBBYEFDYphhGBVSplgU/SZAfSIyc1aQ8aMEQG
+A1UdIwQ9MDuAFJCpu54qZPvqHBzQhIO4nMhNmSZfoRikFjAUMRIwEAYDVQQDDAlw
+cm94aXMgY2GCCQCsiyN3KjyzbjATBgNVHSUEDDAKBggrBgEFBQcDAjALBgNVHQ8E
+BAMCB4AwDQYJKoZIhvcNAQELBQADggFBAJtpo71IhqXhVR3PiudnPmyTs6sAKC7F
+qRUGhYqQobIFy05s/8i2nyRhLZZ16wFSx236KSCx9mH3yYJ5RabsPjBAxgI7487L
+IQG9tXx/ps3fsPu6CdCrM/rH+faRpftPkX3D4Vy69T8YPGsVcVPBYxKbWnJDvw8Y
+buW5WYmQjB6OA2qEgGUUnO5LDzgfh3RB2OvNdj7bAM3yj9Ml2C5eE5jDldg0DJMz
+bLtwZ7abDbH6wvbEZqK7EeCVxhxpKURvreeh4q5B2ivKWx7+jUPl0FzdDeXtkcgG
+7j0w9UiSqpwtn0jRLM9IitoEOJfIVAONDRRX6K439/EK/X8rsdeV/dYlDnJ2a3aq
+Bt2C6C1sjSIj+xBAr4Q4oDHr+ZRzGesxRygZ5Ao68KX/yJedHRfujy5usFC9DGSq
+AjBK5rLaR+vG
+-----END CERTIFICATE-----
