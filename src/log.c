@@ -1,4 +1,4 @@
-/* Copyright (c) 2006-2012, Daniel Bilik <daniel.bilik@neosystem.cz>
+/* Copyright (c) 2006-2019, Daniel Bilik <daniel.bilik@neosystem.cz>
    All rights reserved.
 
    Redistribution and use in source and binary forms, with or without

@@ -1,4 +1,8 @@
-/* Copyright (c) 2018, Seznam.cz, a.s.
+/*
+   Copyright (c) 2018-2019, Seznam.cz, a.s.
+
+   Author: Daniel Bilik (daniel.bilik@firma.seznam.cz)
+
    All rights reserved.
 
    Redistribution and use in source and binary forms, with or without
