@@ -67,7 +67,7 @@ void session_drop(session_t *session, char *err)
 
 	if (err && (r = resp_err(err))) {
 		bufferevent_write(session->client, r->payload, r->len);
-		free(r);
+		resp_free(r);
 	}
 
 	if (session->ssl != NULL) {
